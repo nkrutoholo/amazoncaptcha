@@ -34,7 +34,7 @@ classifiers = [
 ]
 
 requires = [
-    "pillow >= 9.0.1,< 9.5.0",
+    "pillow == 5.4.1",
     "requests >= 2.27.1,< 2.29.0"
 ]
 
